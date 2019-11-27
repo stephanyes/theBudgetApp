@@ -1,4 +1,4 @@
-# theBudgetApp
+# The Budget App
 
 In this app I learned how to structure my code better, the importance of protecting your code, IIFEs and controllers.
 
